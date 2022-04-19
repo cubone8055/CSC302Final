@@ -1,0 +1,22 @@
+System,GFlops,Year,Handheld,Company
+Xbox Series X,12000,2020,FALSE,Microsoft
+Playstation 5,9200,2020,FALSE,Sony
+Xbox One X,6000,2017,FALSE,Microsoft
+Playstation 4 Pro,4200,2016,FALSE,Sony
+Xbox Series S,4000,2020,FALSE,Microsoft
+PlayStation 4,1843,2013,FALSE,Sony
+Xbox One S,1400,2016,FALSE,Microsoft
+Xbox One,1310,2013,FALSE,Microsoft
+Nintendo Switch (Docked),500,2017,FALSE,Nintendo
+Nintendo Switch,393.2,2017,TRUE,Nintendo
+Xbox 360,240,2005,FALSE,Microsoft
+PlayStation 3,230.4,2006,FALSE,Sony
+Nintendo Wii U,176,2012,FALSE,Nintendo
+Xbox,20,2001,FALSE,Microsoft
+Nintendo Wii,12,2006,FALSE,Nintendo
+Nintendo Gamecube,9.4,2001,FALSE,Nintendo
+PlayStation 2,6.2,2000,FALSE,Sony
+Nintendo 3DS,4.8,2011,TRUE,Nintendo
+Dreamcast,1.4,1998,FALSE,SEGA
+Nintendo DS,0.6,2004,TRUE,Nintendo
+Nintendo 64,0.1,1996,FALSE,Nintendo
